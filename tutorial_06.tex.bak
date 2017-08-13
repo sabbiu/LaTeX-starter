@@ -20,8 +20,10 @@ The set of real numbers is denoted by $\mathbb{R}$
 Graph: $\displaystyle \eq1$\\
 \labelaxes
 
-\includegraphics{test_02.jpg}
-
+Remember that images must be saved as .png, .jpg, .gif or .pdf files
+\begin{center}
+\includegraphics[width=5in, angle=90]{test_02.jpg}
+\end{center}
 
 
 \end{document}
