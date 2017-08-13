@@ -50,7 +50,9 @@ bulleted:
 
 
 \begin{enumerate}
-\item $a+b=b+a$
+\item[Commutative] $a+b=b+a$
+\item[Associative] $a+(b+c)= (a+b)+c$
+\item[Distributive] $a(b+c)=ab+bc$
 \end{enumerate}
 
 \end{document}
