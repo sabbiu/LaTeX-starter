@@ -26,4 +26,18 @@ log functions:
 $$\log_5(x)$$
 $$ln(x)$$
 
+square roots:
+$$\sqrt{32}$$
+$$\sqrt[3]{27}$$
+$$\sqrt{x^2+y^2}$$
+$$\sqrt{x+\sqrt{x+\sqrt{x}}}$$
+
+fractions:
+
+About $\displaystyle{\frac{2}{3}}$ of the glass is full
+$$\frac{x^2}{x^2+1}$$
+$$\frac{\sqrt{x+1}}{\sqrt{x-1}}$$
+$$\frac{1}{1+\frac{1}{x}}$$
+$$\sqrt{\frac{x}{x^2+x+1}}$$
+
 \end{document}
