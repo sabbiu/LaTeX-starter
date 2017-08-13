@@ -1,8 +1,12 @@
 \documentclass[11pt]{article}
 
+\usepackage[margin=1in, paperwidth=8.5in, paperheight=11in]{geometry}
+
 \begin{document}
 
-\title{Formatting}
+\tableofcontents
+
+\title{My Practice \LaTeX\ Document}
 \author{Sabbiu Shah}
 \date{\today}
 \maketitle
@@ -41,5 +45,14 @@ This is left justified
 This is right justified
 \end{flushright}
 
+
+\section{Linear Functions}
+	\subsection{Slope-Intercept Form}
+	It is given by $y=ax+b$
+	\subsection{Standard Form}
+	\subsection{Point-slope Form}
+\section{Quadratic Functions}
+	\subsection{Vertex Form}
+	\subsection{Standard Form}
 
 \end{document}
